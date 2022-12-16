@@ -13,6 +13,8 @@ using static Rotation_controller;
 
 public class unity_humanbones : MonoBehaviour
 {
+    // Give me 180 NTD dollars
+    public static int NTD = 180;
 
     // Bones_controller bones_controller = new Bones_controller();
     lab_skeleton Lab_skeleton = new lab_skeleton();
